@@ -1,0 +1,30 @@
+
+ Requisitos Funcionais
+
+1. Cadastro de Livros
+2. Cadastro de Usuários
+3. Empréstimo de Livros
+4. Devolução de Livros
+5. Renovação de Empréstimos
+6. Pesquisa de Livros
+7. Reserva de Livros
+8. Multas
+9. Relatórios
+10. Controle de Estoque
+    
+
+Requisitos Não Funcionais
+
+1. Desempenho
+2. Segurança
+3. Usabilidade
+4. Escalabilidade
+5. Disponibilidade
+6. Compatibilidade
+7. Manutenibilidade
+8. Internacionalização (se aplicável)
+9. Conformidade Legal
+10. Integridade dos Dados
+    
+
+
